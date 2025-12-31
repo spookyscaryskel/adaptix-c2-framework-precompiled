@@ -1,3 +1,6 @@
 # AdaptixC2 v1.0
 
 # This is a precompiled client for Adaptix C2, this is precompiled for Windows via QT.
+
+AdaptixC2 is ​​an extensible post-exploitation and adversarial emulation framework made for penetration testers. The Adaptix Server is written in Golang and to allow operator flexibility. The GUI Client is written in C++ QT, allowing it to be used on Linux, Windows, and MacOS operating systems.
+
